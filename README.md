@@ -1,4 +1,4 @@
-# 🚀 Fluyt — App de mensajería instantánea
+#  ¡Fluyt v3 está aquí!
 
 [![Versión](https://shields.io)](https://github.io)
 [![Plataforma](https://shields.io)](https://github.io)
